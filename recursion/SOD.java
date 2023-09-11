@@ -8,6 +8,7 @@ public class SOD {
     }
 
      static int solve(int n) {
+        // sum of natural numbers....
         if ( n < 9) {
             return n;
         }
