@@ -1,0 +1,22 @@
+// assume all imports List<Integer> list = Arrays.asList(5, 17, 42, 14, 1, 2);
+System.out.println(list); // [5, 17, 42, 14, 1, 2]
+
+// to sort list
+Collections.sort(list);
+System.out.println(list); // [1, 2, 5, 14, 17, 42]
+
+// perform binary search
+int index = Collections.binarySearch(list, 17);
+System.out.println(index); // 4
+
+// to reverse list
+Collections.reverse(list);
+System.out.println(list); // [42, 17, 14, 5, 2, 1]
+
+// to get max number using
+int max = Collections.max(list, Comparator.naturalOrder());
+System.out.println(max); // 42
+
+// to get max number using 
+int min = Collections.min(list, Comparator.naturalOrder());
+System.out.println(min); // 1

@@ -1,4 +1,6 @@
-cimport java.util.*;
+import java.util.*;
+
+import check.Solution;
 
 class Solution
 {

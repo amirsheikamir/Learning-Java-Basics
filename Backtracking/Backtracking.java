@@ -7,6 +7,7 @@ public class Backtracking {
          solve(str, " " );
          sc.close();
     }
+    // check the possible combination of string 
 
      static void solve(String str, String per) {
 

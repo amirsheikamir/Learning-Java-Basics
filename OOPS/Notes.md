@@ -18,13 +18,14 @@ public class Main
         */
         	Student() {
 /*
-   Constructor  :  to set default value if an't assign value;
-   This is a contrructor so the purpose of this is assign tdefault values 
+   #Constructor 
+             to set default value if an't assign value;
+   This is a contructor so the purpose of this is assign tdefault values 
    
    
    System construntor  : well not be call...
 */	
-   System.out.println("Hello i have netered the constructor ");
+   System.out.println("Hello i have etered the constructor ");
 	    
 	}
     }
@@ -60,29 +61,45 @@ public class Main
 	
 }
 
-
 /*
-    wrapper class : it's there to wrap the primitive data types.
+  - wrapper class : it's there to wrap the primitive data types.
     object : it's an instance of class or (which present in real life e.g book , table )
     in object meory takes again and again e.g : if i write s1.name twice or thrice it take memory how many time we call it 
     class : which is bueprint of all object. 
 
     Final "KeyWord" :-  if some thing assigned final then it can't be changed.
 ------------------------------------------------------
-    static  : we can declare static in:  
+   -  static  : we can declare static in:  
       `static variable 
       ` static method 
       `static block
-------------------------------------------------------
+-----------------------------------------------------
+     
      - take memory only  once 
      - if data type have static now it's property of the object
         e.g if our class name is Student we can call it with Student.ROllNo
 
     
 ====================================================================================================
+------------------------------------------------------------------------------------
+String[] ===========> passing all the arguements int array of String 
 
-public static void main
-
-
+   - class inside class can be static
+   - main class is not static.
 
 */
+
+====================================================
+contractor           :      Function or method   
+=====================:==============================
+no return            :      it has return
+name same as parent  :        any name 
+                     :
+====================================================
+
+
+# Acess Modifiers : 
+    - public : if any attribute, class method set to public it's acessable from anywhere in  thefile  or outside the file in a package 
+    - private : it's accesable only in the class 
+    - protected  : In the file , outside of the file in same package by subclass only 
+    - default : 
