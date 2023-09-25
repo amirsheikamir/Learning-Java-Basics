@@ -1,3 +1,11 @@
+// there are four pillar on oops 
+
+inheretance .  
+polymorphism. 
+abstract .
+encapsulation.
+
+
 public class Main
 {
     static class Student {
