@@ -21,7 +21,9 @@
 
 
         abstract class inf {
+
         abstract void run();
         abstract void hello();
         int x;
+        
         }
