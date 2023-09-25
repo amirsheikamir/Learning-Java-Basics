@@ -4,8 +4,8 @@
    ### Abstraction in Java can be achieved using the following tools it provides :
         Both are used to achieve abstraction.
  
-   1. Interface  :  It's only has abstraction methods. And supports multiple inheritance : 
-      * remember java doesn't support multitple inheritance but in Inheritance it supports 
+   1. Interface  :  It only has abstraction methods. And supports multiple inheritance : 
+       - remember java doesn't support multitple inheritance but in Inheritance it supports 
 
             Blueprint of a class 
             it actually start with 
