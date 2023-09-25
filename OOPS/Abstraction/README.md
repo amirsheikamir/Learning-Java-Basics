@@ -19,11 +19,14 @@
 
    2. Abstract Class : It can have both abstract and non abstract methods.
 
-
-        abstract class inf {
+    ```
+     abstract class inf {
 
         abstract void run();
         abstract void hello();
         int x;
-        
+
         }
+    
+    ```
+       
