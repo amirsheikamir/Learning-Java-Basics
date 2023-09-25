@@ -12,7 +12,7 @@ Polymorphism means "many forms", and it occurs when we have many classes that ar
 - Runtime Polymorphism : 
   1. when you have 2 functions of same name & same parameter.
 
-
+---
 
 Overloading : same name , diff arguements same calss , diff class
 ---
