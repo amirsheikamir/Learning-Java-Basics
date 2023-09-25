@@ -5,14 +5,16 @@ Polymorphism means "many forms", and it occurs when we have many classes that ar
      *  morphism - forms 
  ## Types of Polymorphism 
  > Compile Time Polymorphism : compile time decide which constructor take.
-       - method overriding : Two methods having same name but diff. arguement, data type of arguement. 
+   - method overriding : Two methods having same name but diff. arguement, data type of arguement. 
 > Runtime Polymorphism : 
  >  when you have 2 functions of same name & same parameter.
 
 ---
 
-Overloading : same name , diff arguements same calss , diff class
+### Overloading : 
+   same name , diff arguements same calss , diff class
 ---
 
-Overridding : same func error come duplicate method
+### Overridding : 
+       same func error come duplicate method
 ---
