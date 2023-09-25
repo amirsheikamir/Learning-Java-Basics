@@ -20,8 +20,6 @@
 
 
         abstract class inf {
-
-            // abstract methods
         abstract void run();
         abstract void hello();
         int x;
