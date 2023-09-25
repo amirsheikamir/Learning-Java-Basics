@@ -9,7 +9,8 @@
 
             Blueprint of a class 
             it actually start with 
-                *interface I {
+                
+                interface I {
 
                     void hello ()  
                     void solve()
