@@ -1,11 +1,12 @@
-# Polymorphism : `Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance. Like we specified in the previous chapter; Inheritance lets us inherit attributes and methods from another class. Polymorphism uses those methods to perform different tasks.`
+# Polymorphism : 
+Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance. Like we specified in the previous chapter; Inheritance lets us inherit attributes and methods from another class. Polymorphism uses those methods to perform different tasks.
 ***
- ## types of polymorphism 
+ ## Types of Polymorphism 
   - compile time Polymorphism. : compile time decide which constructor take.
   ---
 
-     ` Poly - many `
-     ` morphism - forms `
+      Poly - many 
+      morphism - forms 
        * method overriding : Two methods having same name but diff. arguement, data type of arguement.
   
 - Runtime Polymorphism : 
