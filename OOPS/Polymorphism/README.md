@@ -14,8 +14,8 @@ Polymorphism means "many forms", and it occurs when we have many classes that ar
 
 
 
-over-loading : `same name , diff arguements same calss , diff class`
+Overloading : same name , diff arguements same calss , diff class
 ---
 
-over-ridding : same func `error come duplicate method`
+Overridding : same func error come duplicate method
 ---
