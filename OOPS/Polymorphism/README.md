@@ -12,9 +12,31 @@ Polymorphism means "many forms", and it occurs when we have many classes that ar
 ---
 
 ### Overloading : 
-        same name , diff arguements same calss , diff class
----
+        is a type of static polymorphism. In Method overloading, we can define multiple methods with the same name but with different parameters. 
+``` java
+  void hello () {
+        System.out.println("Welcome to the Hello World ");
+    }
+    void hello(int x) {
+        System.out.println("Welcome to the world of "+ x);
+    }
+```
 
 ### Overridding : 
-       same func error come duplicate method
----
+     is a mechanism to achieve polymorphism where the super class and the sub-class have same methods, including the parameters and signature.
+   - same name function  error come duplicate method
+``` java
+class Adder{  
+static int add(int a,int b){return a+b;}  
+static double add(int a,int b){return a+b;}  
+}  
+class TestOverloading3{  
+public static void main(String[] args){  
+System.out.println(Adder.add(11,11));//ambiguity  
+}}  
+```
+```
+output:
+* 
+Compile Time Error: method add(int,int) is already defined in class Adder
+```
