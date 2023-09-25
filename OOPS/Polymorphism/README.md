@@ -24,18 +24,19 @@ Polymorphism means "many forms", and it occurs when we have many classes that ar
 
 ### Overridding : 
      is a mechanism to achieve polymorphism where the super class and the sub-class have same methods, including the parameters and signature.
-   - same name function  error come duplicate method
 ``` java
 class Adder{  
-static int add(int a,int b){return a+b;}  
+  static int add(int a,int b){return a+b;}  
 static double add(int a,int b){return a+b;}  
 }  
 class TestOverloading3{  
-public static void main(String[] args){  
-System.out.println(Adder.add(11,11));//ambiguity  
+  public static void main(String[] args){  
+    System.out.println(Adder.add(11,11));//ambiguity  
 }}  
 ```
+
 ```
+  - same name function  error come duplicate method
 output:
 * 
 Compile Time Error: method add(int,int) is already defined in class Adder
