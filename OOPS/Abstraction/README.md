@@ -19,7 +19,7 @@
 
    2. Abstract Class : It can have both abstract and non abstract methods.
 
-    ```
+  ```
      abstract class inf {
 
         abstract void run();
@@ -27,6 +27,4 @@
         int x;
 
         }
-    
-    ```
        
