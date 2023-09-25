@@ -5,7 +5,7 @@
         Both are used to achieve abstraction.
  
    1. Interface  :  It only has abstraction methods. And supports multiple inheritance : 
-       - remember java doesn't support multitple inheritance but in Inheritance it supports 
+       - remember java doesn't support multitple inheritance but in interface it supports 
 
             Blueprint of a class 
             it actually start with 
