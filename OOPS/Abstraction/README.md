@@ -19,7 +19,7 @@
 
    2. Abstract Class : It can have both abstract and non abstract methods.
 
-  ```
+  ``` java
      abstract class inf {
 
         abstract void run();
