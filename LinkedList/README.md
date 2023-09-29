@@ -11,7 +11,7 @@
                 int val;
                 Node next;
             }
- ```
+        ```
 
-    ## Types of LinkedList:
-    - Single  
+ ## Types of LinkedList:
+   - Single  
