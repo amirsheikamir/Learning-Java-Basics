@@ -10,7 +10,8 @@
             clean Node {
                 int val;
                 Node next;
-            }
+            }```
 
- ## Types of LinkedList:
+
+## Types of LinkedList:
    - Single  
