@@ -3,14 +3,15 @@
 
  ## How it works Internally.
    -  Every Node connected to each other via links.
-   -  Referece variable head and tail head points to first node and tail pointing the last one.
-   -  
+   -  Referece variable head and tail head points to first node and tail pointing the last one. 
 
-    * code : 
+  code : 
    ``` java
             clean Node {
                 int val;
                 Node next;
             }
-    ```
+ ```
 
+    ## Types of LinkedList:
+    - Single  

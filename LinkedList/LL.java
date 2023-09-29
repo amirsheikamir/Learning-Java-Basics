@@ -2,8 +2,8 @@ package LinkedList;
 
 
 class Node {
-    int val;
-    Node next;
+  private int val;
+   private Node next;
 
     // making constrcutor 
     Node (int val) {
