@@ -6,12 +6,11 @@
    -  Referece variable head and tail head points to first node and tail pointing the last one. 
 
   code : 
-   ``` java
+      ``` java
             clean Node {
                 int val;
                 Node next;
             }
 
-
 ## Types of LinkedList:
-   - Single  
+- Single  
