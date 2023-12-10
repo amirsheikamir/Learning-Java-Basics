@@ -14,3 +14,6 @@
 
 ## Types of LinkedList:
 - Single  
+- Doubly
+- Circular
+

@@ -1,5 +1,5 @@
-package Arrays;
 
+package Arrays.twoDArrays;
 import java.util.*;
 public class matrixProblem {
     public static void main(String[] args) throws Throwable {
